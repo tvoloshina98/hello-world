@@ -1,3 +1,3 @@
 all:
-	gcc -Wall hello.c -o hello
+	gcc -Wall -o hello.c hello
 
