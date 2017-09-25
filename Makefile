@@ -1,2 +1,3 @@
-hello: hello.c
-	gcc -o -Wall hello hello.c
+all:
+	gcc -Wall hello.c -o hello
+
